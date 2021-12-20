@@ -5,6 +5,7 @@ export const Nav = styled.nav`
   justify-content: space-between;
   align-items: center;
   padding: 1rem 0;
+  box-shadow: 0 2px 2px -2px rgba(0, 0, 0, 0.2);
 
   .active {
     color: #276658;
